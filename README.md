@@ -44,3 +44,52 @@ python manage.py runserver
 
 ## Conclusion
 In conclusion, the blogging platform built with Django, AWS S3, and AWS IAM offers an extensive set of features for bloggers to manage their posts effectively. With secure user authentication, robust password management, and email validation, users can rest assured that their accounts are well-protected. The integration with AWS S3 ensures seamless handling and storage of media content. By following the provided instructions, you can easily set up and run the project on your local machine, ready to share your thoughts with the world. Happy blogging!
+
+## Sample Images of the Project
+1. Home Page
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(52).png)
+
+2. Login Page
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(53).png)
+
+3. Sign In Page
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(54).png)
+
+4. Reset Password Page
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(55).png)
+
+5. Home Page after Signing In
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(56).png)
+
+6. Profile Info
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(57).png)
+
+7. Post Operations
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(58).png)
+
+8. AWS S3 console for storing profile photos of users
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(59).png)
+
+9. Admin Login
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(60).png)
+
+10. Admin Database
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(61).png)
+
+11. Create a new post
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(62).png)
+
+12. End of Page || Pagination
+
+![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(63).png)
