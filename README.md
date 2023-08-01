@@ -19,27 +19,12 @@ The blogging platform is a fully functional web application built using Django, 
 7. **Email Validation**: Users must validate their email addresses during the registration process, enhancing security and preventing misuse of the platform.
 
 ## How to Run the Project
-1. **Clone the Repository**: Start by cloning the repository to your local machine using the command:
-```
-git clone https://github.com/your-username/your-repository.git
-```
-2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using:
-
-```
-pip install -r requirements.txt
-```
+1. **Clone the Repository**: Start by cloning the repository to your local machine using the command: `git clone https://github.com/VishalManam/django-blog-page.git`
+2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using: `pip install -r requirements.txt`
 3. **Set up AWS S3 and IAM**: Obtain your AWS S3 and IAM credentials and configure them in the appropriate settings files.
-
 4. **Database Configuration**: Configure the database settings according to your preferences in the Django settings file.
-
-5. **Apply Migrations**: Apply the initial database migrations using:
-```
-python manage.py migrate
-```
-6. **Run the Server**: Start the development server using:
-```
-python manage.py runserver
-```
+5. **Apply Migrations**: Apply the initial database migrations using: `python manage.py migrate`
+6. **Run the Server**: Start the development server using: `python manage.py runserver`
 
 
 ## Conclusion
