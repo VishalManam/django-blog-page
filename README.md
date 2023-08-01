@@ -78,3 +78,15 @@ In conclusion, the blogging platform built with Django, AWS S3, and AWS IAM offe
 12. End of Page || Pagination
 
 ![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(63).png)
+
+## Contributions
+
+Contributions to this project are welcome! If you have any suggestions or improvements, feel free to create a pull request. Please ensure to follow the project's code of conduct.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+The development of the fully functional Django blog page would not have been possible without the contributions, support, and inspiration from various individuals and resources. Special thanks to the Django community, open-source and the Python community.
