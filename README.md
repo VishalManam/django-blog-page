@@ -33,51 +33,64 @@ In conclusion, the blogging platform built with Django, AWS S3, and AWS IAM offe
 ## Sample Images of the Project
 1. Home Page
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(52).png)
+![Screenshot (52)](https://github.com/VishalManam/django-blog-page/assets/88299493/02a2a4a3-5eab-453d-9392-2143a2a0902b)
+
+
 
 2. Login Page
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(53).png)
+![Screenshot (53)](https://github.com/VishalManam/django-blog-page/assets/88299493/a39c39e1-349f-42cb-8c48-9a9f88d58846)
+
 
 3. Sign In Page
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(54).png)
+![Screenshot (54)](https://github.com/VishalManam/django-blog-page/assets/88299493/6ee9813a-ed44-4969-8514-80da2d915e90)
+
 
 4. Reset Password Page
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(55).png)
+![Screenshot (55)](https://github.com/VishalManam/django-blog-page/assets/88299493/94609a2a-095d-46c3-9b61-4150f5327757)
+
 
 5. Home Page after Signing In
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(56).png)
+![Screenshot (56)](https://github.com/VishalManam/django-blog-page/assets/88299493/b4b2f35a-4f63-46a1-bed2-748c43507fa6)
+
 
 6. Profile Info
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(57).png)
+![Screenshot (57)](https://github.com/VishalManam/django-blog-page/assets/88299493/14129dff-a980-4c69-8cd5-d11c2705aa5e)
+
 
 7. Post Operations
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(58).png)
+![Screenshot (58)](https://github.com/VishalManam/django-blog-page/assets/88299493/290ddd5c-0f41-4262-9a74-1575c7c60b85)
+
 
 8. AWS S3 console for storing profile photos of users
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(59).png)
+![Screenshot (59)](https://github.com/VishalManam/django-blog-page/assets/88299493/a18c9133-1e60-4db3-aa2a-b7c18e37f43c)
+
 
 9. Admin Login
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(60).png)
+![Screenshot (60)](https://github.com/VishalManam/django-blog-page/assets/88299493/c9ac00c2-46ab-453c-8ea1-f02b7e010a36)
+
 
 10. Admin Database
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(61).png)
+![Screenshot (61)](https://github.com/VishalManam/django-blog-page/assets/88299493/c21772b0-709b-435d-a25e-9498694c97f4)
+
 
 11. Create a new post
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(62).png)
+![Screenshot (62)](https://github.com/VishalManam/django-blog-page/assets/88299493/0b00a45d-b217-4906-9f71-aff9b98d43b3)
+
 
 12. End of Page || Pagination
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(63).png)
+![Screenshot (63)](https://github.com/VishalManam/django-blog-page/assets/88299493/51968dfe-fece-494b-bde2-97befd8eb956)
+
 
 ## Contributions
 
